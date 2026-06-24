@@ -2,7 +2,8 @@
 
 Toshkentdagi boutique ko'chmas mulk agentligi uchun zamonaviy landing page. Arxitektura chizmasi (blueprint) uslubidagi qora-bronza dizayn, interaktiv ipoteka kalkulyatori va filtrlanadigan mulk ro'yxati bilan.
 
-🔗 **Live Demo:** [shu yerga deploy linkini qo'shing](#)
+🔗 **Live Demo:** [
+https://realestate-landing-ruby.vercel.app/](#)
 
 ![Meridian Estates preview](./preview.png)
 
